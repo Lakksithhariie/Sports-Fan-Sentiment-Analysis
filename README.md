@@ -44,15 +44,6 @@ Example subreddits analyzed:
    - Add your Groq API key in the notebook
 3. **Run the code:** Execute cells sequentially (Ctrl+F9 for full run)
 
-**To set up the repository:**  
-1. Create new repo at https://github.com/new named "Sports-Fan-Sentiment-Analysis"
-2. Add this README.md
-3. Upload your Colab notebook (File > Download .ipynb)
-4. Add supporting files (data samples, images)
 
-Need help with any step? I can provide specific instructions for:
-- Adding collaborators
-- Setting up GitHub Actions
-- Configuring secret keys
-- Adding project wiki pages
+
 
